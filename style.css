@@ -1,8 +1,8 @@
-body {
+body{
     font-size: 15pt;
     justify-content: center;
   align-content: center;
-  text-align: center;
+  text-align: ccenter
 }
 
 #myVideo {
@@ -19,8 +19,8 @@ body {
   width: 70%;
   padding: 50px;
   position: fixed;
-  margin-top:80px
-  margin-left: 0px;
+  mmargin-top: 0px;
+  margin-left:90px
   justify-content: center;
   align-content: center;
   text-align: center;
